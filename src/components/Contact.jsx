@@ -66,7 +66,7 @@ const Contact = ({ darkMode }) => {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/arth-saxena-b73263386"
+          href="https://www.linkedin.com/in/arth-saxena-8870b2293"
           target="_blank"
           rel="noreferrer"
           style={{

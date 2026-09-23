@@ -7,9 +7,9 @@ const patents = [
   },
   {
     title:
-      "Wind-Electric Hybrid System for EVs",
+      "ELECTRIC VEHICLE FRONT ENGINE COMPARTMENT (FRUNK) INTEGRATED VERTICAL AXIS WIND TURBINE SYSTEM WITH GRILLE-REPLACEMENT SLIDING DOOR MECHANISM FOR NET POSITIVE ENERGY RECOVERY",
     status:
-      "Filed – Under Process",
+      "Filed – Pending(Provisional Filed 2026)",
   },
 ];
 
