@@ -24,6 +24,7 @@ const projects = [
     title: "Eco Tracker",
     tools: ["Node.js", "Express.js", "React.js", "JSON"],
     desc: "A carbon-footprint tracking web application with AI-powered suggestions.",
+    link: "https://frontend-r76n.onrender.com/",
 
   },
   {
